@@ -1,5 +1,5 @@
 # npm-badges
-Display a npm badge as in example(png image)
+Generate a NPM badge with the latest version of the library and the number of downloads in the last 12 months as in the example (png image)
 
 ## API
 
@@ -22,3 +22,6 @@ Display a npm badge as in example(png image)
 ## Unknown library name or internal error 
 
 ![unknow name](http://www.vincenzodevivo.com/lab/npm-badges/npm-badge.php?name=super-mem1)
+
+#### Note
+NPM is a trademark of NPM, Inc.
