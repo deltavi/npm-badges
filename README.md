@@ -9,7 +9,7 @@ Display a npm badge as in example(png image)
 
 ### Demo online
 
-`http://www.vincenzodevivo.com/lab/npm-badges/npm-badge.php?name=super-mem`
+[http://www.vincenzodevivo.com/lab/npm-badges/npm-badge.php?name=super-mem](http://www.vincenzodevivo.com/lab/npm-badges/npm-badge.php?name=super-mem)
 
 ## Example
 
