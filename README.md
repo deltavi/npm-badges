@@ -1,5 +1,5 @@
 # npm-badges
-Generate a NPM badge with the latest version of the library and the number of downloads in the last 12 months as in the example (png image)
+Generates a NPM badge with the latest version of the library and the number of downloads in the last 12 months as in the example (png image)
 
 ## API
 
